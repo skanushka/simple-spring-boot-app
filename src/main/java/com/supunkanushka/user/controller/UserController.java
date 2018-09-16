@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2018.
+ * Created By : Supun Kanushka
+ */
+
 package com.supunkanushka.user.controller;
 
 import com.supunkanushka.user.model.UserModel;
